@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nvidia Nsync quick fix tutorial
+title: Nvidia GSync windows quick fix tutorial
 author: Álvaro
 ---
 

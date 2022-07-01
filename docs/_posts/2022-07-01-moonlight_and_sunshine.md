@@ -24,11 +24,11 @@ Just download the zip file and extract the files to a known location (in my case
 
 Then double click `sunshine.exe` and it should open a terminal window. After displaying some info, hopefully you should see something like this:
 
-![](../assets/images/sunshine_running.png)
+![](/assets/images/sunshine_running.png)
 
 Notice the URL at the bottom next to the BIG RED ARROW. That's the web UI address where you'll be able to further setup Sunshine. When logging in, it will ask you to create an administrator user:
 
-![](../assets/images/sunshine%20first%20use.png)
+![](/assets/images/sunshine%20first%20use.png)
 
 As always, **try not to lose these credentials**.
 
@@ -36,23 +36,23 @@ As always, **try not to lose these credentials**.
 
 Just get the zip or installable exe file, and run moonlight. You should see the host you setup in the previous step:
 
-![](../assets/images/moonlight%20running.png)
+![](/assets/images/moonlight%20running.png)
 
 When you click on it, it will ask you to input a PIN in your Sunshine Server:
 
-![](../assets/images/moonlight%20pin.png)
+![](/assets/images/moonlight%20pin.png)
 
 Now go to your sunshine web UI and go to PIN:
 
-![](../assets/images/sunshine%20pin.png)
+![](/assets/images/sunshine%20pin.png)
 
 And input the PIN you saw on your Moonlight Client:
 
-![](../assets/images/pin%20pairing.png)
+![](/assets/images/pin%20pairing.png)
 
 And now you should be able to connect from Moonlight client!
 
-![](../assets/images/moonlight%20connected.png)
+![](/assets/images/moonlight%20connected.png)
 
 # Troubleshooting
 
@@ -60,11 +60,11 @@ And now you should be able to connect from Moonlight client!
 
 It's probably blocked by the firewall settings. Go to Firewall Settings and check if it's enabled correctly:
 
-![](../assets/images/sunshine%20firewall%203.png)
+![](/assets/images/sunshine%20firewall%203.png)
 
 If you've only enabled it for private (as in the picture), make sure your network is on private mode too!
 
-![](../assets/images/sunshine%20firewall%204.png)
+![](/assets/images/sunshine%20firewall%204.png)
 
 ## Ok, I can see the server, but it asks me to enable some ports? WTF?
 

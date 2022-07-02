@@ -1,15 +1,27 @@
+title: Stuff about things
+markdown: kramdown
+url: ""
+
+# for atom feed
+author:
+  name: Álvaro Muñoz
+  email: dev@alvaromail.com
+
 plugins:
-  # - jekyll-feed
-  # - jekyll-sitemap
+  - jemoji
   - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+collections_dir: all_collections
+collections:
+  posts:
+    output: true
 
 defaults:
   - scope:
-      path: ""
-      type: "posts"
+      path: "_posts"
     values:
       layout: "post"
-  - scope:
-      path: ""
-    values:
-      layout: "default"
+      permalink: /posts/:title/
+exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]

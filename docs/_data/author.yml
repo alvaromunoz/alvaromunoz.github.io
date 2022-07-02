@@ -1,0 +1,19 @@
+name: Álvaro Muñoz
+dp: https://avatars2.githubusercontent.com/u/2722773?s=400&u=cd9747ef563854665a87cdafda7bb64eecea3908&v=4
+description: "
+  <p>
+    This is where Álvaro posts stuff so his friends can read if needed! (And hopefully other people, too)
+  </p>
+"
+email: dev@alvaromail.com
+contact:
+#  - title: linkedin
+#    url: https://www.linkedin.com/in/<username>
+  - title: github
+    url: https://github.com/alvaromunoz
+#  - title: twitter
+#    url: https://twitter.com/<username>
+#  - title: dev
+#    url: https://dev.to/<username>
+  - title: email
+    url: mailto:dev@alvaromail.com

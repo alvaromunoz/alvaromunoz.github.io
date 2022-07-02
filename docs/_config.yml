@@ -1,6 +1,7 @@
 title: Stuff about things
 markdown: kramdown
-url: ""
+url: "https://alvaromunoz.github.io/"
+baseurl: ""
 
 # for atom feed
 author:
